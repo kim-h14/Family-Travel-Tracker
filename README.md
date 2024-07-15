@@ -13,7 +13,6 @@ Family Travel Tracker is a web application that allows users to track the countr
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
-- [License](#license)
 
 ## Installation
 
