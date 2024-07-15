@@ -1,6 +1,6 @@
 import express from "express";
 import bodyParser from "body-parser";
-import { renderHomePage } from "./controllers/homecontrollers.js";
+import { renderHomePage } from "./controllers/homeControllers.js";
 import { addCountry } from "./controllers/countryController.js";
 import { createNewUser, handleUserChange } from "./controllers/userController.js";
 import db from './db.js';
